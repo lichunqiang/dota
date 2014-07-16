@@ -17,3 +17,7 @@ NeverMore
 ![](./assets/20100416173451692.jpg)
 
 事实上影压的AOE区域比这个还小一些,不过我画大一点,这样你就能对影压在实际游戏中到底会压在哪里有一个大致印象,毕竟实际游戏还要考虑碰撞体积.
+
+## Videos
+
+[Perfect is shit](www.youtube.com/watch?v=7gnnNPElrNQ) played by pis.
